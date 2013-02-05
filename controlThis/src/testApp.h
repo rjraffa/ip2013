@@ -50,5 +50,7 @@ class testApp : public ofBaseApp{
     
         ofTrueTypeFont  ahg20;
     
+    int changeInTheTestApp;
+    
 
 };
